@@ -1,3 +1,7 @@
+# Adding config.py file.
+api_keys.py
+git status
+
 # OpenWeatherMap API Key
 weather_api_key = "YOUR KEY HERE"
 
